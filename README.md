@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=GAURAV%20GADHARI&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🚀%20VISIONARY%20DEVELOPER%20%26%20AI%20ARCHITECT%20🤖&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=GAURAV%20GADHARI&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=VISIONARY%20DEVELOPER%20AND%20AI%20ARCHITECT&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=⚡+Architecting+Tomorrow's+Digital+Universe;🧠+Engineering+AI-Powered+Ecosystems;✨+Crafting+Revolutionary+User+Experiences;🌟+Transforming+Impossible+Into+Reality" alt="Dynamic Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=Architecting+Tomorrow's+Digital+Universe;Engineering+AI-Powered+Ecosystems;Crafting+Revolutionary+User+Experiences;Transforming+Impossible+Into+Reality" alt="Dynamic Typing" />
 
 <div style="margin: 30px 0;">
 
