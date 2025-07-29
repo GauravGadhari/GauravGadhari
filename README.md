@@ -1,113 +1,80 @@
-# Hi there, I'm Gaurav Gadhari 👋
+<h1 align="center">✨ Gaurav Gadhari ✨</h1>
 
-## 🚀 Visionary Developer & AI Architect
+<p align="center">
+  🚀 Visionary Developer | 🧠 AI Architect | 💡 Tech Pioneer  
+  <br/>Building next-gen software that doesn’t just work — it *thinks*.
+</p>
 
-> *"I don't just develop software—I architect digital experiences that challenge the status quo."*
-
-Welcome to my digital workshop! I'm a passionate software engineer who's been coding since 7th grade, inspired by brilliant minds like Senku and Gen Asagiri. I specialize in crafting sophisticated applications, launching ventures, and designing AI ecosystems that push technological boundaries.
-
-### 🌟 What I Do
-
-- **🤖 AI Systems Architecture** - Building intelligent solutions with Groq API, LLaMA 3, and advanced machine learning
-- **📱 Mobile Innovation** - Creating revolutionary apps with React Native and cutting-edge user experiences  
-- **🌐 Full-Stack Development** - End-to-end solutions from React frontends to FastAPI backends
-- **💡 Product Innovation** - Turning ideas into reality with modern tech stacks and user-centric design
-
-### 🛠️ Tech Arsenal
-
-**Frontend Mastery**
-```
-React • Next.js • TypeScript • Tailwind CSS • Three.js • React Native
-```
-
-**Backend Excellence** 
-```
-Node.js • FastAPI • Go • Django • Supabase
-```
-
-**AI & Intelligence**
-```
-Groq API • TensorFlow • Deep Learning • NLP • LLaMA 3
-```
-
-**Infrastructure & DevOps**
-```
-Docker • Kubernetes • AWS • GCP • CI/CD
-```
-
-### 🚀 Featured Projects
-
-#### 🎯 [21 Days Of Habit](https://play.google.com/store/apps/details?id=com.light_computers.daysofhabbit)
-Modern habit tracker with offline-first experience, motivational quotes, and beautiful UI
-- **Tech Stack:** React Native, TypeScript, Expo, AdMob
-- **Status:** Under Development (Launched July 2025)
-- **Features:** Offline-first, flexible tracking, progress visualization, smart reminders
-
-#### 🧠 [ClipMind](https://play.google.com/store/apps/details?id=com.lightcomputers.clipmind)
-Revolutionary AI-enhanced clipboard ecosystem that redefines productivity
-- **Tech Stack:** React Native, Groq API, LLaMA 3 70B, JavaScript
-- **Status:** Beta Testing Phase
-- **Innovation:** Semantic understanding, automated workflow optimization
-
-#### 🌿 [Daily Rise Wellness](https://daily-rise-wellness.vercel.app/)
-Comprehensive health and wellness e-commerce platform
-- **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS
-- **Status:** Live & Active
-- **Focus:** Modern design, performance optimization, user experience
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravGadhari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/GauravGadhari)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravGadhari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/GauravGadhari)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GauravGadhari&theme=radical&hide_border=true&background=0D1117)](https://github.com/GauravGadhari)
-
-</div>
-
-### 🎓 Knowledge Sharing
-
-I believe in the philosophy: **"Knowledge shared is knowledge multiplied."** 
-
-Check out my tutorials and insights on my [portfolio website](https://gaurav-gadhari.vercel.app/tutorials) where I share everything I've learned from 7th grade to building the future.
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://gaurav-gadhari.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-gadhari-579558275/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AGauravHere)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithgaurav37)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_gaurav_here/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravgadhari39@gmail.com)
-
-</div>
-
-### 💡 Current Focus
-
-- 🔭 Working on revolutionary mobile applications with AI integration
-- 🌱 Exploring advanced machine learning and neural networks
-- 👯 Looking to collaborate on innovative AI and mobile projects
-- 🤔 Always eager to learn about emerging technologies
-- 💬 Ask me about React Native, AI systems, or full-stack development
-
-### 📈 Journey Highlights
-
-- 📱 **2 Active Mobile Apps** on Google Play Store
-- 🌐 **Multiple Live Web Applications** serving users globally  
-- 🤖 **AI Integration Expert** with Groq and LLaMA implementations
-- 🎯 **Full-Stack Proficiency** across modern tech stacks
-- 📚 **Knowledge Creator** sharing tutorials and insights
+<p align="center">
+  <a href="https://gaurav-gadhari.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="https://x.com/AGauravHere" target="_blank">🐦 Twitter</a> •
+  <a href="https://www.linkedin.com/in/gaurav-gadhari-579558275/" target="_blank">💼 LinkedIn</a> •
+  <a href="https://www.instagram.com/a_gaurav_here/" target="_blank">📸 Instagram</a> •
+  <a href="https://www.youtube.com/@codewithgaurav37" target="_blank">🎥 YouTube</a>
+</p>
 
 ---
 
-<div align="center">
+### 💡 About Me
 
-**"Architecting tomorrow's digital landscape through innovative solutions, cutting-edge AI, and boundless creativity."**
+Hey there, I’m **Gaurav Gadhari** — a self-made full-stack developer, AI engineer, and serial builder since class 7️⃣.
 
-![Profile Views](https://komarev.com/ghpvc/?username=GauravGadhari&color=blueviolet&style=flat-square)
+I don’t just write code.  
+I craft digital experiences, architect AI ecosystems, and bring big ideas to life — one elegant line at a time.
 
-</div>
+> “I don’t follow trends — I build what’s next.” 💥
+
+---
+
+### 🔥 Tech Stack
+
+- **Frontend:** React, Next.js, Tailwind, Expo, TypeScript  
+- **Backend:** FastAPI, Django, Supabase, Node.js  
+- **AI & ML:** Groq API, LLaMA 3, OpenAI, TensorFlow, NLP  
+- **Cloud & Infra:** Vercel, Railway, GCP, AWS, Docker, Filebase  
+- **Tools:** GitHub, Figma, Postman, VSCode, AdMob  
+
+---
+
+### 🚀 Current Projects
+
+#### 🧠 ClipMind – AI Clipboard Redefined  
+Semantic clipboard assistant powered by LLaMA 3 & Groq  
+➡️ [Play Store](https://play.google.com/store/apps/details?id=com.lightcomputers.clipmind)
+
+#### 📱 21 Days of Habit – Offline Habit Tracker  
+Track goals, earn streaks, unlock mindset  
+➡️ [Live App](https://play.google.com/store/apps/details?id=com.light_computers.daysofhabbit)
+
+#### 🛒 Daily Rise Wellness – Health E-commerce  
+Minimal, elegant platform for mindful living  
+➡️ [Visit Website](https://daily-rise-wellness.vercel.app/)
+
+---
+
+### 🧠 My Philosophy
+
+- Simplicity is my superpower.  
+- Speed is my obsession.  
+- Privacy-first, always.  
+- If it’s not offline-ready, it’s not ready.  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravGadhari&show_icons=true&theme=radical&hide=stars" alt="Gaurav's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravGadhari&theme=radical" alt="Gaurav's GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Let’s Build Something Legendary
+
+- 📧 gauravgadhari39@gmail.com  
+- 📱 +91 77210 42911  
+- 🌐 [gaurav-gadhari.vercel.app](https://gaurav-gadhari.vercel.app)
+
+> *“Ideas are easy. Execution is divine. Let’s collab and create magic.”* 💫
